@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2682d9</color>
+    <color name="colorPrimaryDark">#2682d9</color>
+    <color name="colorAccent">#A6A1A1</color>
+
+    <color name="colorPrimary_pharmaretail">#F8724D</color>
+    <color name="colorPrimaryDark_pharmaretail">#EB302B</color>
+    <color name="colorAccent_pharmaretail">#A9A9A9</color>
+    <color name="dark_gray">#A6A1A1</color>
+    <color name="light_gray">#DCDCDC</color>
+
+    <color name="colorPrimary_eesy">#BC1B3C</color>
+    <color name="colorPrimaryDark_eesy">#961D46</color>
+    <color name="colorAccent_eesy">#D9E18790</color>
+
+
+    <color name="app_caption_color">#2F4871</color>
+    <color name="signin_title_text_color">#6594da</color>
+    <color name="signin_button_color">#6594da</color>
+    <color name="signin_hind_text_color">#D1D6DA</color>
+    <color name="price_text_color">#FFF32F</color>
+    <color name="calender_txt_color">#6E7E95</color>
+    <color name="purchases_tile_color">#fc6e96</color>
+    <color name="salse_tile_color">#ed625b</color>
+    <color name="payments_tile_color">#7e9df8</color>
+    <color name="receipts_tile_color">#9671fc</color>
+
+
+
+    <color name="color_black">#000000</color>
+    <color name="amount_text_color">#DE8B3B</color>
+    <color name="biil_count_color">#3A8AE1</color>
+    <color name="total_value_purchase_color">#46C872</color>
+
+
+    <color name="data_selected_color">#CFDBE7</color>
+    <color name="line_chart_color">#62affd</color>
+    <color name="line_chart_purple">#9f8ccf</color>
+    <color name="line_chart_orange">#cd6c62</color>
+    <color name="text_color">#354962</color>
+    <color name="row_bg">#F0F3F8</color>
+
+    <color name="receivables_tile_color">#5EA875</color>
+    <color name="payables_tile_color">#2C7EB0</color>
+    <color name="gross_tile_color">#EB7744</color>
+    <color name="white">#fff</color>
+</resources>

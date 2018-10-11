@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">PaginationWithRecyclerView</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_payable">Total Payables</string>
+    <string name="selct_filtertype">Both</string>
+    <string name="selct_compantname">Search Company Name</string>
+    <string name="name">Name</string>
+    <string name="opening_qnty">Open. Qty</string>
+    <string name="purchase_qnty">Pur Qty</string>
+    <string name="kireeti_pharma">Kireeti Pharmasoft</string>
+    <string name="pharma_content">Simple yet sophisticated, PHARMASOFT is a versatile software solution that cuts down Reports generation time and increases quality and accuracy of the information. Margin on Item(s) / Customer(s), Sales Invoice, Party Ledger, Batch-wise Stock Position Report, Sales Analysis Report, Customer / Supplier Enquiry, Debit Note, Credit Note etc</string>
+    <string name="total_value_purchase">Total Purchases</string>
+    <string name="total_sale_text">Total Sales</string>
+    <string name="total_sale_hint">Total Sales</string>
+    <string name="open_value">Open Value</string>
+    <string name="purchase_value">Pur. Val</string>
+    <string name="sales_qty">Sales Qty</string>
+    <string name="sales_value">Sales Value</string>
+    <string name="Closing_qty">Cls. Qty</string>
+    <string name="Closing_value">Cls. Val</string>
+    <string name="opening_value">Open Val</string>
+    <string name="clear">Clear</string>
+    <string name="total_payment_value">Total Payments</string>
+    <string name="total_receipt">Total Receipts</string>
+    <string name="item_name">Name</string>
+    <string name="cls_qty">Cls. Qty</string>
+    <string name="cls_value">Cls. Val</string>
+    <string name="due_days">Due Days :</string>
+    <string name="learn_more">Learn More</string>
+    <string name="cancel">CANCEL</string>
+    <string name="selct_company">Select Company</string>
+    <string name="menu_company">Change Company</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_generate_report">Generate Report</string>
+    <string name="total_voucher_hint">Total Vouchers</string>
+    <string name="num_of_vochers">No of Vouchers</string>
+    <string name="menu_gross_profit">Gross Profit</string>
+    <string name="total">Total</string>
+    <string name="date_range">Current Month</string>
+    <string name="date_yesterday">Yesterday</string>
+    <string name="total_gross">Gross Profit : </string>
+    <string name="as_on_hint">As on Date</string>
+    <string name="purchase_value_stock">Purchase Value</string>
+    <string name="Closing_value_stock">Closing Value</string>
+    <string name="profit_amount">Profit Amt.</string>
+    <string name="sales_val">Sales Val.</string>
+    <string name="contact">Contact No</string>
+
+</resources>

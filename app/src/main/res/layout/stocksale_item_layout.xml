@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:id="@+id/row_layout"
+        android:weightSum="3"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/name_txt"
+            android:layout_weight="0.4"
+            android:layout_width="0dp"
+            android:gravity="center_vertical|start"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:text="@string/name"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+            android:id="@+id/closing_qty"
+            android:layout_weight="0.3"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:ems="8"
+            android:text="@string/Closing_qty"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+            android:id="@+id/closing_qty_value"
+            android:layout_weight="0.4"
+            android:layout_width="0dp"
+            android:gravity="center_vertical|end"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:ems="8"
+            android:text="@string/Closing_value"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+            android:id="@+id/open_qty"
+            android:layout_weight="0.3"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:ems="8"
+            android:text="@string/opening_qnty"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+            android:id="@+id/open_qty_value"
+            android:layout_weight="0.4"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:ems="8"
+            android:text="@string/opening_value"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+            android:id="@+id/purchase_qty"
+            android:layout_weight="0.3"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:ems="8"
+            android:text="@string/purchase_qnty"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+            android:id="@+id/purchase_qty_value"
+            android:layout_weight="0.3"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:ems="8"
+            android:text="@string/purchase_value"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+            android:id="@+id/sales_qty"
+            android:layout_weight="0.3"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:ems="8"
+            android:text="@string/sales_qty"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+            android:id="@+id/sales_qty_value"
+            android:layout_weight="0.3"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:textColor="@color/text_color"
+            android:padding="5dp"
+            android:maxLines="1"
+            android:ems="8"
+            android:text="@string/sales_value"
+            android:layout_height="wrap_content" />
+
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
